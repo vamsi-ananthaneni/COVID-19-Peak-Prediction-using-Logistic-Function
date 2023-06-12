@@ -1,6 +1,5 @@
 # COVID-19-Peak-Prediction-using-Logistic-Function
 
-![Project Logo](images/project_logo.png)
 
 This repository contains the code and resources for the project on COVID-19 peak prediction using the logistic function. The project aims to estimate the total number of COVID-19 cases, recoveries, and deaths worldwide by implementing a live dashboard for COVID-19 spread analysis.
 
@@ -25,7 +24,7 @@ To estimate the COVID-19 peaks, we employ non-linear regression using the logist
 ## Results
 Based on the provided datasets, we have merged the data into a Python tool, specifically Jupyter Notebook. By importing the required libraries and adding the files, we were able to visualize the data and fit the logistic function to predict the COVID-19 peaks. The results are showcased in the form of graphical representations, providing insights into the spread of COVID-19.
 
-![Graphical Results](images/graphical_results.png)
+
 
 
 
